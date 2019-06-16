@@ -10,22 +10,22 @@ export default class Services extends Component {
             {
                 icon: <FaCocktail/>,
                 title: "Coctéles Gratis",
-                info: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam tristique, odio vitae maximus iaculis, odio diam pharetra dui, eget commodo lectus ligula in odio.'
+                info: 'Te ofrecemos tu cocteles favoritos gratis, acompañados de los mejores platillos y un amplio menú'
             },
             {
                 icon: <FaHiking/>,
                 title: "Guias Turisticos",
-                info: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam tristique, odio vitae maximus iaculis, odio diam pharetra dui, eget commodo lectus ligula in odio.'
+                info: 'Guías turisticos te acompañaran a visitar los mejores destinos'
             },
             {
                 icon: <FaShuttleVan/>,
                 title: "Transporte Gratis",
-                info: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam tristique, odio vitae maximus iaculis, odio diam pharetra dui, eget commodo lectus ligula in odio.'
+                info: 'Te ofrecemos transporte gratis a los destinos seleccionados dentro del paquete'
             },
             {
                 icon: <FaBeer/>,
                 title: "Bebidas de Costesía",
-                info: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam tristique, odio vitae maximus iaculis, odio diam pharetra dui, eget commodo lectus ligula in odio.'
+                info: 'Bebidas a tu gusto de cortesía'
             }
         ]
     }
