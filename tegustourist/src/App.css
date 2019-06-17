@@ -133,6 +133,9 @@ h6 {
 .nav-header {
   display: flex;
   justify-content: space-between;
+  font-size: 1.5rem;
+  color: #000;
+  text-decoration: none;
 }
 .nav-btn {
   background: transparent;
