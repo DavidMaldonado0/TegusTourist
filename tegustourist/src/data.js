@@ -420,7 +420,7 @@ export default [
       id: "8"
     },
     fields: {
-      name: "double deluxe",
+      name: "deluxe doble",
       slug: "double-deluxe",
       type: "double",
       price: 400,
@@ -648,7 +648,7 @@ export default [
       id: "12"
     },
     fields: {
-      name: "family deluxe",
+      name: "deluxe familiar",
       slug: "family-deluxe",
       type: "family",
       price: 500,
@@ -705,7 +705,7 @@ export default [
       id: "13"
     },
     fields: {
-      name: "presidential",
+      name: "presidencial",
       slug: "presidential-room",
       type: "presidential",
       price: 600,
