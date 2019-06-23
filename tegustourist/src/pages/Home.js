@@ -18,6 +18,14 @@ export default function Home() {
         </Hero>
         <Services/>
         <FeaturedRooms/>
+        <footer className="homefooter">
+	    <p>
+		Created by
+		<a target="_blank" href="https://github.com/DavidMaldonado0"> David Maldonado </a>
+		- Get the code
+		<a target="_blank" href="https://github.com/DavidMaldonado0"> here</a>.
+	    </p>
+        </footer>
         </>
     );
 };

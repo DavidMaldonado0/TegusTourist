@@ -20,7 +20,7 @@ export default class Navbar extends Component {
                 
                 <div className="nav-header"> 
                     <Link to="/">
-                        <p>TEgUS TourisT</p>
+                        <p id="logo">Tegus TourisT</p>
                     </Link>
 
                     <button type="button" className="nav-btn" onClick={this.handleToggle}>
